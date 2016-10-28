@@ -5,8 +5,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Lab66Pilot</title><center>
-<br><h1>JAVA LEARNING CENTER</h1></br>
+<title>Login</title><center>
+<br><h1>Login Using Annotation</h1></br>
 </head>
 
 <body>
